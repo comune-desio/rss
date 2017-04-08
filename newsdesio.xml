@@ -5,8 +5,78 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 06 Apr 2017 11:00:20 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 08 Apr 2017 16:30:22 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43872</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43872</link>
+			<category></category>
+			<title>Manutenzione stradale</title>
+			<description>Da lunedì 3 aprile partite le opere di manutenzione straordinaria dell'asfaltatura di alcune strade.</description>
+			<a10:updated>2017-04-07T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43866</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43866</link>
+			<category></category>
+			<title>La Pro Loco si presenta</title>
+			<description>Presentazione della Pro Loco Desio  venerdì 7 aprile ore 21 Sala Pertini</description>
+			<a10:updated>2017-04-07T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43829</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43829</link>
+			<category>- Lavori Pubblici</category>
+			<title>Nuove modalità di apertura al pubblico da lunedì 10 aprile</title>
+			<description>Dal 10 aprile gli uffici Lavori Pubblici, Catasto, Ecologia e Patrimonio Demanio osserveranno in via sperimentale un nuovo orario di apertura al pubblico.
+Cambio orario di apertura al pubblico per l'ufficio Messi comunali.</description>
+			<a10:updated>2017-04-07T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43811</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43811</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Mostra "La materia e il colore"</title>
+			<description>La Donazione Scalvini presenta in Villa Tittoni sabato 8 aprile alle ore 18 gli artisti spagnoli Alberto Gomez Ascaso, scultore e Luis Hinojosa, pittore. Mostra aperta fino al 7 maggio
+</description>
+			<a10:updated>2017-04-06T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43804</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43804</link>
+			<category></category>
+			<title>Concerto del pianista Maurizio Baglini </title>
+			<description>Uno dei musicisti più brillanti e apprezzati sulla scena internazionale in concerto presso il Circolo Pro Desio domenica 9 aprile alle ore 15.30 </description>
+			<a10:updated>2017-04-06T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43784</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43784</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Tittoni 4 Kids </title>
+			<description>Libri, tecnologie e dintorni
+Luoghi dove incontrare, conoscere, giocare con la tecnologia e i suoi dintorni Attività per bambini da 0 a 12 anni  Domenica 9 aprile Villa Tittoni dalle 15.00 alle 19.00</description>
+			<a10:updated>2017-04-06T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43783</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43783</link>
+			<category>- Scuola e Formazione</category>
+			<title>Campus Estivo 2017</title>
+			<description>Anche quest'anno torna per i bambini dai 6 ai 12 anni l’invito al Campus Estivo 
+della Scuola Civica di Musica e Danza - Polo delle Arti. Presentazione corsi Venerdì 7 aprile ore 18.30 - Auditorium Via Santa Caterina.</description>
+			<a10:updated>2017-04-06T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43773</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43773</link>
+			<category>- Anagrafe, Elettorale, Statistica, Leva</category>
+			<title>Chiusura straordinaria Uffici Demografici</title>
+			<description>Si informa che nella giornata di Sabato 15  aprile gli Uffici Demografici resteranno chiusi al pubblico. L'Ufficio di Stato Civile sarà aperto dalle 9.30 alle 10.30 esclusivamente per le denunce di morte. 
+
+</description>
+			<a10:updated>2017-04-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43753</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43753</link>
@@ -108,71 +178,6 @@ I mondi fantastici - Sabato 1 aprile ore 17 Biblioteca Civica Area Sostare </des
 			<title>L'associazione Amici Casa natale Pio XI cerca volontari</title>
 			<description>Non sono richiesti requisiti particolari, tranne che essere maggiorenni.</description>
 			<a10:updated>2017-03-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43600</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43600</link>
-			<category></category>
-			<title>Avviso mobilità volontaria per 1 Collaboratore ai Servizi Tecnici - cat. B3 a tempo indeterminato</title>
-			<description>scadenza: giovedì 6 aprile 2017</description>
-			<a10:updated>2017-03-21T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43588</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43588</link>
-			<category></category>
-			<title>Avviso mobilità volontaria per 2 posti   agente di polizia locale - cat. C a tempo indeterminato</title>
-			<description>scadenza: venerdì 14 aprile 2017</description>
-			<a10:updated>2017-03-21T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43563</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43563</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>CNIGHT – Le mille e una Tanda</title>
-			<description>Villa Tittoni  domenica 26 marzo a partire dalle ore 19 apre le sue regali sale al Tango Argentino, un evento unico e speciale davvero da non perdere.</description>
-			<a10:updated>2017-03-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43557</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43557</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Villa Tittoni "accoglie" Papa Francesco</title>
-			<description>Apertura straordinaria di Villa Tittoni e della Casa natale di Pio XI in occasione della visita del Papa a Monza nell'ambito di Ville aperte in Brianza</description>
-			<a10:updated>2017-03-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43549</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43549</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Un Poster per la Pace</title>
-			<description>Domenica 26 marzo ore 10 in Villa Tittoni inaugurazione della mostra e premiazione dei migliori disegni di "Un poster per la Pace" promosso dall'associazione  Lions Club di Desio </description>
-			<a10:updated>2017-03-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43511</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43511</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>CDay 19 Marzo</title>
-			<description>Domenica 19 marzo,  visite guidate nelle sale di Villa Tittoni, mostra fotografica sul Giappone, attività per i più piccoli, il workshop musicale di Markus Stockausen e le poesie istantanee di Francesco Carrubba.</description>
-			<a10:updated>2017-03-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43489</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43489</link>
-			<category></category>
-			<title>Incontro pubblico di presentazione del progetto di economia circolare "Dall'Olio all'Olio"</title>
-			<description>Olio: getta quello vecchio, gusta quello nuovo! Venerdì 17 marzo ore 21 Sala Pertini.</description>
-			<a10:updated>2017-03-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43479</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43479</link>
-			<category>- URP Ufficio Relazioni con il Pubblico e Comunicazione</category>
-			<title>Giornata 'Nidi Aperti'</title>
-			<description>Sabato 8 Aprile 2017
-Visita agli Asili Nido comunali </description>
-			<a10:updated>2017-03-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
